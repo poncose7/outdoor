@@ -1,0 +1,405 @@
+*{
+
+    margin: 0;
+    padding: 0;
+}
+
+
+.header{
+
+background-image: url(../images/bg-3.jpg);
+
+background-position: center;
+
+background-size: cover;
+
+background-repeat: no-repeat;
+
+min-height: 100vh;
+
+background-attachment: fixed;
+}
+
+
+.navbar-light .navbar-nav .nav-link {
+    
+    color: #da1c4b;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.navbar-light .navbar-nav .nav-link:hover{
+
+    color:#6c5ce7;
+}
+
+.header h3{
+
+
+}
+
+
+
+
+
+
+
+
+.header h3{
+
+color: #41464b;
+
+font-size: 30px;
+
+font-weight: 400;
+
+text-align: center;
+
+margin-bottom: 30px;
+}
+
+.header span{
+
+display: block;
+
+height: 3px;
+
+width: 49px;
+
+/* color: red; */
+
+background-color: #da1c4b;
+
+margin: auto;
+}
+
+.header h1{
+
+color: #fff;
+
+font-size: 70px;
+
+font-weight: 800;
+
+text-align: center;
+margin-bottom: 30px;
+}
+
+.btn-learn{
+    
+color: #fff;
+    
+background: #da1c4b;
+    
+padding: 10px 40px;
+    
+border-radius: 30px;
+    
+text-align: center;
+    
+margin: auto;
+    
+margin-top: 10px;
+}
+
+
+
+.header h1{
+
+}
+
+.btn-learn{
+
+}
+
+.height{
+    min-height: 90vh;
+    align-items: center;
+}
+
+.quotion{
+
+background: #F5F5F5;
+
+text-align: center;
+
+padding: 40px 0;
+}
+
+.quotion h2{
+
+    
+}
+
+.quotion p{
+
+    
+}
+
+.events{
+
+padding: 40px 0;
+}
+
+.events h1{
+
+font-size: 50px;
+
+text-align: center;
+}
+
+.events span{
+
+display: block;
+
+height: 5px;
+
+width: 85px;
+
+background: #da1c4b;
+
+margin: auto;
+
+margin-bottom: 30px;
+}
+
+.events h3{
+
+font-size: 30px;
+
+text-align: center;
+
+margin-top: 30px;
+}
+
+.events p{
+
+font-size: 20px;
+
+margin-top: 10px;
+
+text-align: center;
+}
+
+.btn-learn-more{
+
+background: #da1c4b;
+
+color: #fff;
+
+text-align: center;
+
+padding: 0 50px;
+
+margin-left: 141px;
+
+border-radius: 50px;
+
+/* margin: 20px; */
+
+padding: 0;
+
+padding: 0 50px;
+
+font-size: 20px;
+}
+
+i{
+    margin: 15px 5px;
+    color: #fff;
+}
+
+.fa-solid{
+
+
+}
+
+.explore{ background-image: url(../images/ex.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 100px,0;
+    background-attachment: fixed;
+}
+
+
+.explore h1{
+
+font-size: 50px;
+
+color: #fff;
+
+font-weight: 600;
+
+margin-bottom: 30px;
+}
+
+.explore span{
+
+display: block;
+
+height: 3px;
+
+width: 70px;
+
+/* border: red; */
+
+background: red;
+
+margin-bottom: 30px;
+}
+
+.explore p{
+
+color: #fff;
+
+font-size: 17px;
+
+margin-bottom: 30px;
+text-align: justify;
+}
+
+
+
+.btn-learn-more-extra{
+    background: #da1c4b;
+
+    color: #fff;
+    
+    text-align: center;
+    
+   
+    }
+    
+    
+    
+    
+    
+    
+    
+    
+   
+    
+    .fa-solid{
+    
+    
+    }
+    
+    .explore{
+        background-image: url(../images/ex.jpg);
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        padding: 100px,0;
+        background-attachment: fixed;
+        padding: 100px 0;
+    }
+    
+    
+    
+    
+    .btn-learn-more-extra{
+        background: #da1c4b;
+    
+        color: #fff;
+        
+        text-align: center;
+        
+        padding: 0 30px;
+        
+       
+        
+        border-radius: 50px;
+        
+        /* margin: 20px; */
+        
+        padding: 0;
+        
+        padding: 0 50px;
+        
+        font-size: 20px;
+        
+        border-radius: 50px;
+    
+    /* margin: 20px; */
+    
+    padding: 0;
+    
+    padding: 0 50px;
+    
+    font-size: 20px;
+    
+}
+
+
+.tour{
+
+padding: 70px 0;
+}
+
+.tour h2{
+    
+font-size: 43px;
+    
+margin-bottom: 17px;
+    
+font-weight: 700;
+}
+
+.tour span{
+    display: block;
+
+height: 3px;
+
+width: 50px;
+
+/* border: red; */
+
+background: red;
+
+margin-bottom: 30px;
+}
+
+.tour p{
+    
+font-size: 17px;
+    
+text-align: justify;
+    
+margin-top: 30px;
+    
+/* padding: 0 13px; */
+    
+padding-right: 37px;
+}
+
+.footer{
+
+padding: 70px 0;
+
+background: #191919;
+
+text-align: center;
+
+color: #fff;
+
+margin-top: 47px;
+}
+
+.footer h5{
+
+color: #fff;
+
+font-size: 20px;
+
+font-weight: 600;
+}
+
+.footer h6{
+
+color: #fff;
+
+margin-bottom: 30px;
+
+font-size: 17px;
+}
